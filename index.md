@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mohammadkad/mohammadkad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Resume
+```
+ console.log('Hello World!');
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Skill Highlights
+---
++	Programming Languages (Delphi,C#,Java,Python)
++	Agile/Lean/Scrum/Kanban/Scrumban
++	BDD/TDD	
++	AOP
++	Database (MS SQL Server,Oracle, NO-SQL)
++	Data Structures and Algorithms
++	Virtualization	
++	PLC/OPC/IIoT
++	Data mining
++	Docker
 
-### Jekyll Themes
+### Working Experience
+---
++ Level 2 Software Engineer – 2011-Present
+  - Esfahan's Mobarakeh Steel Company 
+    * Set up OPC Server Hub for `Siemens S7` PLCs
+    * Saba Level2 Expansion/Revamp projects (with Danieli, IRISA)
+    * Upgrade `Sinec-H1` network to Fiber optic network
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mohammadkad/mohammadkad.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
++ Level 2 Software Developer – 2008-2011
+  - Irisa Company, Isfahan
+    * Level2 to Level3 Data exchange project (Telegram based)
+    * Connect Quantometer (Spark Emission Spectrometer) to Level2
+    * Connect Celox device (Heraeus Electro-Nite) to Level2
+    
+### Education
+---
++ Master of Science: Software Engineering
+  - 2013, University of Isfahan
++ Bachelor of Science: Software Engineering
+  - 2001-2005, Islamic Azad University, Najafabad Branch
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
