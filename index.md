@@ -2,6 +2,11 @@
 ```
  console.log('Hello World!');
 ```
+[logo]: https://github.com/mohammadkad/mohammadkad.github.io/blob/master/pic.png "Mohammad Kadkhodaei"
+---
+
+TEL  : 09138105141
+Mail : mohammadkad@gmail.com
 
 ### Skill Highlights
 ---
