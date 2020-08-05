@@ -2,7 +2,9 @@
 ```
  console.log('Hello World!');
 ```
-[logo]: https://github.com/mohammadkad/mohammadkad.github.io/raw/master/pic.png "Mohammad Kadkhodaei"
+
+![Logo](https://github.com/mohammadkad/mohammadkad.github.io/raw/master/pic.png)
+
 ---
 
 TEL  : 09138105141,
