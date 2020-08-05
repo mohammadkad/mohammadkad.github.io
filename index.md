@@ -2,7 +2,7 @@
 ```
  console.log('Hello World!');
 ```
-[logo]: https://github.com/mohammadkad/mohammadkad.github.io/blob/master/pic.png "Mohammad Kadkhodaei"
+[logo]: https://github.com/mohammadkad/mohammadkad.github.io/raw/master/pic.png "Mohammad Kadkhodaei"
 ---
 
 TEL  : 09138105141
@@ -41,5 +41,6 @@ Mail : mohammadkad@gmail.com
   - 2013, University of Isfahan
 + Bachelor of Science: Software Engineering
   - 2001-2005, Islamic Azad University, Najafabad Branch
+
 
 .
