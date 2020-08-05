@@ -8,7 +8,8 @@
 ---
 
 TEL  : 09138105141,
-Mail : mohammadkad@gmail.com
+Mail : mohammadkad@gmail.com,
+Persian : [link to Resume.](https://github.com/mohammadkad/mohammadkad.github.io/blob/master/Resume_Fa.pdf)
 
 ### Skill Highlights
 ---
