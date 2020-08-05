@@ -5,7 +5,7 @@
 [logo]: https://github.com/mohammadkad/mohammadkad.github.io/raw/master/pic.png "Mohammad Kadkhodaei"
 ---
 
-TEL  : 09138105141
+TEL  : 09138105141,
 Mail : mohammadkad@gmail.com
 
 ### Skill Highlights
