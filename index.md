@@ -1,4 +1,4 @@
-### New Resume
+###  Resume
 
 🚀 [Please visit my Professional Resume](https://mohammadkad.github.io/resume/index.html) <br/>
 HTML5 + CSS + Bootstrap
