@@ -16,7 +16,8 @@ HTML5 + CSS + Bootstrap
 
 TEL  : 09138105141,
 Mail : mohammadkad@gmail.com <br/>
-Quera Resume : [link to Resume.](https://mohammadkad.github.io/Resume_Fa.pdf) <br/>
+
+Quera : [link]https://quera.ir/profile/mohammadkad , [PDF](https://mohammadkad.github.io/Resume_Fa.pdf) <br/>
 My Aparat Videos : https://www.aparat.com/mohammadkad
 
 ### Skill Highlights
