@@ -11,7 +11,7 @@
 
 TEL  : 09138105141,
 Mail : mohammadkad@gmail.com <br/>
-Persian Resume : [link to Resume.](https://github.com/mohammadkad/mohammadkad.github.io/blob/master/Resume_Fa.pdf) <br/>
+Quera Resume : [link to Resume.](https://github.com/mohammadkad/mohammadkad.github.io/blob/master/Resume_Fa.pdf) <br/>
 My Aparat Videos : https://www.aparat.com/mohammadkad
 
 ### Skill Highlights
