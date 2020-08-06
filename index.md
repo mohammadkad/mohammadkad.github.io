@@ -5,7 +5,7 @@ HTML5 + CSS + Bootstrap
 
 ---
 
-### Resume
+### Old Resume : Markdown
 ```
  console.log('Hello World!');
 ```
