@@ -1,4 +1,4 @@
-[Professional Resume](https://mohammadkad.github.io/resume/index.html) <br/>
+[Please visit my Professional Resume](https://mohammadkad.github.io/resume/index.html) <br/>
 
 ### Resume
 ```
@@ -11,7 +11,7 @@
 
 TEL  : 09138105141,
 Mail : mohammadkad@gmail.com <br/>
-Quera Resume : [link to Resume.](https://github.com/mohammadkad/mohammadkad.github.io/blob/master/Resume_Fa.pdf) <br/>
+Quera Resume : [link to Resume.](https://mohammadkad.github.io/Resume_Fa.pdf) <br/>
 My Aparat Videos : https://www.aparat.com/mohammadkad
 
 ### Skill Highlights
