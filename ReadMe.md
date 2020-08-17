@@ -9,3 +9,7 @@ I used these tools :
 1. FFMPEG : https://ffmpeg.org/
 2. Subtitlebee : https://subtitlebee.com
 3. My python convertor : https://github.com/mohammadkad/python/blob/master/Convert.py
+
+# Tasks :
+1. تهیه کامل زیرنویس فارسی و انگلیسی برای آموزش شماره 10 : مدیریت بک لاگ محصول دراسکرام
+2. تهیه زیرنویس فارسی و انگلیسی برای آموزش شماره 6 : روش ترکیبی مدیریت پروژه - پنج فایل اول
