@@ -3,6 +3,8 @@
 🚀 [Please visit my Professional Resume](https://mohammadkad.github.io/resume/index.html) <br/>
 HTML5 + CSS + Bootstrap
 
+👏 [Persian Resume](https://mohammadkad.github.io/resume/index-fa.html) <br/>
+
 ---
 
 ### Old Resume : Markdown
@@ -58,3 +60,4 @@ My Aparat Videos : https://www.aparat.com/mohammadkad
  
  
 .
+💻 [Self-assessment](https://mohammadkad.github.io/MK_CV_CheckList_AR_3983.pdf)
