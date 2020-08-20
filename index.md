@@ -59,5 +59,4 @@ My Aparat Videos : https://www.aparat.com/mohammadkad
   - 2001-2005, Islamic Azad University, Najafabad Branch
  
  
-.
 💻 [Self-assessment](https://mohammadkad.github.io/MK_CV_CheckList_AR_3983.pdf)
