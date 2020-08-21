@@ -19,6 +19,10 @@ HTML5 + CSS + Bootstrap
 TEL  : 09138105141,
 Mail : mohammadkad@gmail.com <br/>
 
+State : B.1983, Married, Employed, Isfahan, Iran. <br/>
+Languages : FA,EN
+
+
 Quera Site : [link](https://quera.ir/profile/mohammadkad) <br/>
 Quera PDF [PDF](https://mohammadkad.github.io/Resume_Fa.pdf) <br/>
 
@@ -74,11 +78,12 @@ My Aparat Videos : https://www.aparat.com/mohammadkad
 + L2RS : level2 Reporting system
 + Lab reciever
 
-### Letter of recommendation
+### Honors
 ---
-+ Dr. Ahmad Faraahi : https://www.researchgate.net/profile/Faraahi_Ahmad
-+ Dr. Babak Darvish Rouhani : https://www.researchgate.net/profile/Babak_Darvish_Rouhani
- 
- ---
++ selected for efficiency in MSC
++ Rank 120 in Isfahan university
++ Rank 4 in Piyamnour entrance exam
+
+---
  
 💻 [Self-assessment](https://mohammadkad.github.io/MK_CV_CheckList_AR_3983.pdf) <br/>
