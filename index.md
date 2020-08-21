@@ -83,7 +83,6 @@ My Aparat Videos : https://www.aparat.com/mohammadkad
 + selected for efficiency in MSC
 + Rank 120 in Isfahan university
 + Rank 4 in Piyamnour entrance exam
-
 ---
  
 💻 [Self-assessment](https://mohammadkad.github.io/MK_CV_CheckList_AR_3983.pdf) <br/>
