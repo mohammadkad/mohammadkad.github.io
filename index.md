@@ -57,6 +57,26 @@ My Aparat Videos : https://www.aparat.com/mohammadkad
   - 2013, University of Isfahan
 + Bachelor of Science: Software Engineering
   - 2001-2005, Islamic Azad University, Najafabad Branch
- 
+  
+### Publication
+---
++ Use of Aspect-oriented programming in Automation
+
+### Workshops + Teaching experiences
+---
++ Level2 introduction in Saba(MSC)
++ Sql server and RDBMS
++ Oracle essentials
+
+### Projects
+---
++ Celox data collector
++ L2RS : level2 Reporting system
++ Lab reciever
+
+### Letter of recommendation
+---
++ Dr. Ahmad Faraahi : https://www.researchgate.net/profile/Faraahi_Ahmad
++ Dr. Babak Darvish Rouhani : https://www.researchgate.net/profile/Babak_Darvish_Rouhani
  
 💻 [Self-assessment](https://mohammadkad.github.io/MK_CV_CheckList_AR_3983.pdf) <br/>
