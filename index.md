@@ -1,5 +1,5 @@
 ###  Resume
-💻 [New RTL Resume + SOP for Seminar]((https://mohammadkad.github.io/ResumeSOP/index.html) <br/>
+💻 [New RTL Resume + SOP for Seminar](https://mohammadkad.github.io/ResumeSOP/index.html) <br/>
 HTML5 + Responsive + RTL + jQuery + JavaScript
 
 🚀 [Please visit my Professional Resume](https://mohammadkad.github.io/resume/index.html) <br/>
