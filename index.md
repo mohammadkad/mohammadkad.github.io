@@ -87,4 +87,3 @@ My Aparat Videos : https://www.aparat.com/mohammadkad
 + Rank 4 in Piyamnour entrance exam
 ---
  
-💻 [Self-assessment](https://mohammadkad.github.io/MK_CV_CheckList_AR_3983.pdf) <br/>
